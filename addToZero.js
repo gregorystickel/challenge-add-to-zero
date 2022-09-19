@@ -2,6 +2,7 @@
 let array = [28, 43, -12, 30, 4, 0, 12];
 
 // Write your solution below:
+// Find if any two numbers add to 0
 
 let arrNum = [1, 4, 11, 2, 37, -4];
 let result = false;
